@@ -13,5 +13,10 @@
 - دسترسی به اینترنت برای دریافت کانفیگ‌ها
 
    ```
-  text
-   https://raw.githubusercontent.com/eliv2-ray/elina-config/refs/heads/main/v2
+   https://raw.githubusercontent.com/eliv2-ray/elina-config/refs/heads/main/v
+
+## کانال ما
+
+```
+https://t.me/eliv2ray
+
