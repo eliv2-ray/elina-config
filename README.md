@@ -12,5 +12,6 @@
 - نرم‌افزار V2Ray یا کلاینت‌های سازگار (مانند V2RayNG، V2RayN و غیره)
 - دسترسی به اینترنت برای دریافت کانفیگ‌ها
 
-   `text
+   ```
+  text
    https://raw.githubusercontent.com/eliv2-ray/elina-config/refs/heads/main/v2
