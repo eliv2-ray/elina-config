@@ -13,7 +13,7 @@
 - دسترسی به اینترنت برای دریافت کانفیگ‌ها
 
    ```
-  https://raw.githubusercontent.com/eliv2-ray/elena-config/refs/heads/main/v2.txt
+  https://raw.githubusercontent.com/eliv2-ray/elena-config/refs/heads/main/ELENA-CONFIG.txt
 
 ## کانال ما
 
